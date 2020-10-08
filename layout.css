@@ -19,6 +19,7 @@ nav ul li{
     display: inline-block;
     font-size: 15pt;
     list-style-type: none;
+    background-color: black;
     color: red;
     margin-right: 9%;
     margin-left: 3%;
