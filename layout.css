@@ -1,44 +1,55 @@
-body: {
-	margin: 0;
-}
-header{
-	background: black;
-	color: red;
-	padding: 10px 15px 0 10px;
-}
-header h1{
-	margin: 0;
-	display: inline;
-}
-nav ul{
-	margin: 0;
-	display: inline;
-	padding-left: 20%;
-	padding-right: 20%;
+body{
+    margin: 0%;
+    background-color: rgb(44, 40, 40);
+    margin-left: 1%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
 
+}
+
+header{
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 0.5%;
+    padding-top: 0.1%;
+}
+header h2{
+    margin: 0%;
+    font-size: 21pt;
+    display: inline;
+    color: rgb(212, 5, 5);
+    padding-right: 5%;
+}
+
+nav ul{
+    display: inline;
 }
 nav ul li{
-	background: grey;
-	display: inline-block;
-	list-style-type: none;
-	 
-	margin-right: : 2%;
-	padding: 0.5% 0.2% 0.5% 0.2%;
+    display: inline-block;
+    font-size: 15pt;
+    list-style-type: none;
+    color: red;
+    margin-right: 9%;
+    margin-left: 3%;
+    margin-top: 0.8%;
+    font-size: 110%;
 }
 nav ul li a{
-	color: pink;
-}
-.row{
-
-}
-.col{
-	background: #999;
-	float: left;
-	margin: 1%;
-	width: 31% 
-	
+    color: red;
 }
 
- footer {
- 	clear: both;
- }
+h4{
+    color:red;
+    font-size: 18pt;
+}
+img{
+    padding-left:21%;
+}
+footer{
+    padding-top: 2%;
+    padding-bottom: 4%;
+    padding-left: 1%;
+    margin-left: 0%;
+    background-color: black;
+
+}
