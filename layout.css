@@ -1,0 +1,44 @@
+body: {
+	margin: 0;
+}
+header{
+	background: black;
+	color: red;
+	padding: 10px 15px 0 10px;
+}
+header h1{
+	margin: 0;
+	display: inline;
+}
+nav ul{
+	margin: 0;
+	display: inline;
+	padding-left: 20%;
+	padding-right: 20%;
+
+}
+nav ul li{
+	background: grey;
+	display: inline-block;
+	list-style-type: none;
+	 
+	margin-right: : 2%;
+	padding: 0.5% 0.2% 0.5% 0.2%;
+}
+nav ul li a{
+	color: pink;
+}
+.row{
+
+}
+.col{
+	background: #999;
+	float: left;
+	margin: 1%;
+	width: 31% 
+	
+}
+
+ footer {
+ 	clear: both;
+ }
