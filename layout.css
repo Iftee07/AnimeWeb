@@ -26,6 +26,7 @@ nav ul li{
     font-size: 17pt;
     padding-left: 1%;
     padding-right: 1%;
+    margin-bottom: 2%;
 }
 nav ul li a{
     color: red;
@@ -49,4 +50,22 @@ footer{
 }
 .image{
     padding-left: 0%;
+}
+.stone{
+    color: rgba(38, 148, 38, 0.767);
+}
+.water{
+    color: rgb(13, 110, 201);
+}
+.ins{
+    color: rgb(255, 142, 142)
+}
+.fire{
+    color: rgb(230, 84, 0);
+}
+.love{
+    color:rgb(253, 132, 153)
+}
+.mist{
+    color: rgb(104, 212, 189)
 }
